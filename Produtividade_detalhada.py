@@ -516,8 +516,6 @@ fig_rank.update_layout(
     yaxis_title=None,  # 🔥 remove nome da coluna
     transition_duration=500
 )
-
-import streamlit as st
-import pandas as pd
-import plotly.express as px
-openpyxl
+streamlit
+pandas
+plotly
