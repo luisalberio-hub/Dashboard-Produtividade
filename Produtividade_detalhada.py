@@ -1,5 +1,7 @@
 import streamlit as st
 import pandas as pd
+import plotly.express as px
+import plotly.graph_objects as go
 import io
 
 # --------------------------------
@@ -514,6 +516,11 @@ fig_rank.update_layout(
     yaxis_title=None,  # 🔥 remove nome da coluna
     transition_duration=500
 )
-streamlit
-pandas
-plotly
+
+st.plotly_chart(fig_rank, use_container_width=True)
+
+import streamlit as st
+import pandas as pd
+import plotly.express as px
+openpyxl
+
