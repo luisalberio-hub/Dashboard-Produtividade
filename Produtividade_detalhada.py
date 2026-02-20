@@ -517,7 +517,7 @@ fig_rank.update_layout(
     transition_duration=500
 )
 
-st.plotly_chart(fig_rank, use_container_width=True)
 import streamlit as st
 import pandas as pd
-plotly
+import plotly.express as px
+openpyxl
