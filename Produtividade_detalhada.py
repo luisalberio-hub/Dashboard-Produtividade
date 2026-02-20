@@ -1,5 +1,5 @@
 import streamlit as st
-pandas
+import pandas as pd
 plotly
 openpyxl
 import streamlit as st
